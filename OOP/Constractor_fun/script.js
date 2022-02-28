@@ -6,6 +6,7 @@ function C_fun(fname,lname){
     }
 };
 
+
 var john=new C_fun('attia','moh');
 
 console.log(john);
